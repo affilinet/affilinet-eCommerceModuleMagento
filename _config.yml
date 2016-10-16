@@ -20,6 +20,8 @@ mainmenu:
     slug: 
   - title: Documentation
     slug: documentation
+  - slug: download
+    title: Download
 
 # Conversion
 markdown: kramdown
@@ -28,7 +30,7 @@ permalink: date
 
 # Collections
 collections:
-  # - documentation
+  - documentation
 
 # Defaults
 defaults:
