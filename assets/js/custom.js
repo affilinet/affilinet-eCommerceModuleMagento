@@ -1,5 +1,5 @@
 /*!
- * Custom JS for affilinet Advertiser Mobile SDK
+ * Custom JS for affilinet eCommerce Module Magento
 */
 
 // Highlight the top nav as scrolling occurs
