@@ -5,7 +5,6 @@ title: Support
 slug: support
 
 # position, used for sorting the chapters
-position: 8
+position: 5
 
 ---
-
