@@ -2,7 +2,7 @@
 This extension provides integration of your Magento shop with affilinet program.
 See also https://www.magentocommerce.com/magento-connect/affilinet-module.html for download.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/udOJSlYmSag" frameborder="0" allowfullscreen></iframe>
+You may want to watch a short video: https://www.youtube.com/embed/udOJSlYmSag
 
 The affilinet extension enables you to integrate the affiliate marketing functionality into your Magento store. Affilinet means performance marketing, an attractive, success-based payment model for users directed to your website, high quality, transparent tracking and reporting as well as a sales network with 500.000 publishers (website operators, who promote your products via internet). This extension offers you new customer potentials to expand your reach.
 
