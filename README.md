@@ -24,6 +24,6 @@ Extension requirements
 
 In addition to the Magento shop you need an affilinet account to use the extension. If you already have one, you can easily provide your affilinet programID as well as your affilinet webservice login details in the settings. Now you have access to all functionalities. New clients can directly apply for an affilinet account via the Registration tab.
 
-Hints for installation:
-https://stackoverflow.com/questions/31767680/step-by-step-process-for-installing-magento-extension-through-ftp
+Hints for installation:<br>
+https://stackoverflow.com/questions/31767680/step-by-step-process-for-installing-magento-extension-through-ftp<br>
 https://www.cminds.com/down-to-the-basics-how-to-install-a-magento-extension/
