@@ -1,6 +1,13 @@
 # affilinet eCommerce Module Magento
-This extension provides integration of your Magento shop with affilinet program.
-See also https://www.magentocommerce.com/magento-connect/affilinet-module.html for download.
+This extension provides integration of your Magento shop with an affilinet program.
+
+System Requirements: 
+Magento Community Edition versions 1.6, 1.7, 1.8<br>
+Magento Enterprise Edition versions 1.11, 1.12, 1.13, 1.14<br>
+Please note! The affilinet module supports PHP only for the version 5.4. <br>
+
+For other versions you might use the Plumrocket Extension that also supports affilinet integration: 
+https://store.plumrocket.com/affiliate-programs-magento2-extension.html 
 
 You may want to watch a short video: https://www.youtube.com/embed/udOJSlYmSag
 
