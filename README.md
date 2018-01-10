@@ -2,9 +2,9 @@
 This extension provides integration of your Magento shop with an affilinet program.
 
 System Requirements: 
-Magento Community Edition versions 1.6, 1.7, 1.8<br>
-Magento Enterprise Edition versions 1.11, 1.12, 1.13, 1.14<br>
-Please note! The affilinet module supports PHP only for the version 5.4. <br>
+* Magento Community Edition versions 1.6, 1.7, 1.8 
+* Magento Enterprise Edition versions 1.11, 1.12, 1.13, 1.14 
+* Please note! The affilinet module supports PHP only for the version 5.4. 
 
 For other versions you might use the Plumrocket Extension that also supports affilinet integration: 
 https://store.plumrocket.com/affiliate-programs-magento2-extension.html 
@@ -23,3 +23,7 @@ Besides the fully integrated process of affiliate marketing functionalities with
 Extension requirements
 
 In addition to the Magento shop you need an affilinet account to use the extension. If you already have one, you can easily provide your affilinet programID as well as your affilinet webservice login details in the settings. Now you have access to all functionalities. New clients can directly apply for an affilinet account via the Registration tab.
+
+Hints for installation: <br>
+https://stackoverflow.com/questions/31767680/step-by-step-process-for-installing-magento-extension-through-ftp
+https://www.cminds.com/down-to-the-basics-how-to-install-a-magento-extension/
